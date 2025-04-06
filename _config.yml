@@ -23,11 +23,9 @@ tiles-count: 6
 # You need to restart jekyll for changes to have an effect
 socials:
   GitHub: https://github.com/vicenteprod
-  Instagram:https://www.instagram.com/vicenteprod_/
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+  Instagram: https://www.instagram.com/vicenteprod_/
   Twitter: https://twitter.com/vicenteprod
-  Facebook:
-  Slack:
+  Bluesky: https://bsky.app/profile/vicenteprod.bsky.social
 
 # build settings
 markdown: kramdown
