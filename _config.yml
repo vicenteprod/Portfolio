@@ -1,7 +1,7 @@
 # site settings
 title: VicenteProd
 subtitle: by HTML5 UP
-email: vicen
+email: 
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "/Portfolio" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
